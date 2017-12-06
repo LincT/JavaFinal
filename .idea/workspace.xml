@@ -2,292 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff15fd4b-1a84-4be4-88f6-a6afec0e835f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/file-changes/last-build.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-25-1.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-25-2.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-25-3.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-25-4.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-25-5.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-25-6.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-25-7.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-28-1.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-28-2.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-28-3.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-28-4.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-28-5.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-28-6.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-28-7.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-29-1.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-29-2.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-29-3.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-29-4.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-29-5.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-29-6.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-11-29-7.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-01-1.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-01-2.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-01-3.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-04-1.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-04-2.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-04-3.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-04-4.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-04-5.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-04-6.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-04-7.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-05-1.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-05-2.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-05-3.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2017-12-05-4.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World-20171128-102806.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World-20171204-112748.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/data/villages.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/forcedchunks.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/data/villages.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/forcedchunks.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/data/villages.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/forcedchunks.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_mcr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/05a2b883-672c-35b9-82ec-eccc4e0cabc2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/08e49200-0644-3742-931a-94fcbb560d07.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/094b1c52-a449-3e9f-896c-59239b943c71.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/0aee4775-e8b4-37ed-8049-6be96ef5de8e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/0ee0c13d-70e5-3031-ae99-c5b7b6d44331.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/1393f182-8170-3d81-bbcc-663c68900b91.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/1b411c64-a8c2-3ec5-98f5-0b867e192819.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/1e8814df-4b51-3d88-9dcd-89145d90282f.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/2737bbb4-080a-3670-89c1-780a32c86c5a.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/2a17739c-8096-3f15-9cf7-abffa922ad8e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/2b32bf3c-80b5-35b3-abab-2d4e53bbbeb0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/2e7f81fe-4dd6-3981-b817-d323711367be.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/3247b050-58df-3a7e-91f5-44a3d807681c.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/34077235-b312-3a6b-9fdd-0d5e06f91c0e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/365faa2a-981e-3ca7-bdac-725f58fc8c84.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/376eb988-e6dd-3105-bb50-572ead49ce98.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/377f1ac0-6050-32e3-9d68-daf21c3caf7c.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/387e1557-1e63-3242-8750-2853d61db146.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/3b1946fe-c2d1-3fab-8b74-bd39d8b52fb4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/46f780a1-2e26-3e88-a90a-02cf37fe1547.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/48c2e6c7-8875-31cc-9a01-be7eaa5f9386.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/49b1c99f-ddf7-3830-8802-b69461c51429.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/4f2b9d55-5b3e-32ee-ad58-c8df44a23337.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/50441446-173a-3648-92c5-519e7eb2f5c1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/5098f6b6-5b18-3f91-8634-ca13195fea22.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/5234a5c3-20f2-3d6d-975b-3ec31fe1a944.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/56a259bf-cc44-38c1-8061-dd05953c60e0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/56a50a28-2026-3b27-8279-243e3ff82a5a.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/5b615aa5-0042-3651-8971-2294273b0cec.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/5c6d79ca-db3a-3a0a-8d04-9e811bde5c64.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/5cc48495-676c-3721-aed2-7336730ff405.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/5daba5f8-966b-3165-8089-02aaa9b1e740.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/62db38a8-8d21-3d78-b638-e74e59f2520a.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/67e4079e-4cf5-3669-9343-c8d0c03a90f2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/691b5991-d81d-336c-9128-6e2de0ef0a95.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/6a12f6e4-e9d6-38e2-bb44-10484bb75cf2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/6ae8fe40-3ccb-3755-8fd2-c5445728b386.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/6b411cc5-cb23-3aef-b8b1-6cb73d96a2d5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/6ef60f0d-ee89-3acd-9711-6e64aaf89fef.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/71f66ac1-c861-3de2-8cda-9d0f80277f27.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/74489f5c-5bce-3f80-9a7b-77c68ca90330.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/7ff3eb93-8be9-3a7d-9590-647acffcfb2b.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/8896e73a-aee7-316e-8768-fb46f8d5ace7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/8dea17cd-e1ef-3064-95ba-e1811660f4f6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/924198c2-2c42-36d7-958c-f259b1738969.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/955d257f-8897-3d8b-b175-e59818b1c178.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/9c6f7109-b578-36c3-a272-028e06c40407.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/9e5d41e7-4785-3b2f-8261-593dade57f6e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/9ef817a1-6950-35d1-b5a8-3ec720c28c3d.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/9f83efe4-f945-3a62-8c8a-b62cdf1ee258.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/a2d3cb04-2e77-32ea-a568-7872ba7e9c5c.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/a498be5d-0142-3d23-a17c-8823a1cd27b0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/ad740e1c-84c3-3b16-9064-6e382083a878.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/af25fa27-7674-36f1-a716-e7719e15f87a.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/b136c8aa-0654-3583-8db1-8749e12181a1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/b5e415c2-d8ef-3eff-a3b7-e89aed71ee14.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/b7b35306-5dd2-3898-a137-7b342b456059.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/b91f0a72-af04-3f0f-855e-a1f30159432b.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/c6ce7a26-3e2c-3db3-9e3e-b55d9d3a6d24.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/cdb3764d-36f0-3797-a2a1-844d00fc332e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/d0f5fb0c-30f8-3708-84d1-e619aef4d8f4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/d1a76729-1ccb-3de3-b2b3-c7efa54f7c6f.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/d1fadcd5-f8ee-389b-ae76-2112e34d591e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/d3d45e58-b5d9-369a-ac43-347ac47e2b17.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/d3ee42bb-6490-3bf6-992c-01b42b8a0039.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/d566deca-6b21-32cb-af90-4edf09eeac2e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/d5c2adf2-8956-39ce-835b-416668af8f9e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/d6e922b7-7cc1-35be-bcee-1c10dacdb1bc.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/da5cc374-3bd7-357d-9ee2-36c8124e8cc4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/dbef6173-b792-3041-821b-b11445f44ee8.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/de358e9d-8e5f-32cd-b09f-d8bdf3008cfe.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/e122e0b0-374f-3b1b-a986-63f4fefee57a.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/e2b9cbcf-86ca-37af-a4ef-9732161cb042.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/e2f2d8ad-63d3-3d66-8818-3aa1e92fae1a.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/e342fe1d-63b8-357f-8114-7490b4ce5aed.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/e7c5c79a-91ee-3db1-afe8-a6ff4d4f15fa.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/f0c5379b-0e4e-34aa-808d-37fef9b5ce6c.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/f2ba1573-0c0d-3978-bb86-e2dc9c0eb9a4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/f861b4cb-4ad2-3047-bede-1f92822d0050.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/fd31ce15-3baa-3523-8ee4-307bb606ee39.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/fef5996a-ff47-30bf-9025-1401c61fa24d.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.0.-1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.0.0.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.0.1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.0.2.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.1.-1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.1.0.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.1.1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.1.2.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.2.0.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.2.1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.2.2.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/session.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/gradle.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/BlockMaker.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/BlockMaker_api.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/BlockMaker_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/BlockMaker_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/config/forge.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/config/forgeChunkLoading.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-25_12.50.51-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-25_12.58.01-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-25_13.11.46-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-25_13.24.11-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-25_13.28.50-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-25_14.51.12-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-25_19.07.15-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-29_10.10.23-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-29_10.20.46-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-11-29_10.27.47-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-12-04_11.41.35-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-12-04_11.42.30-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2017-12-04_11.44.51-client.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/hs_err_pid4524.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/options.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/05a2b883-672c-35b9-82ec-eccc4e0cabc2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/08e49200-0644-3742-931a-94fcbb560d07.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/094b1c52-a449-3e9f-896c-59239b943c71.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/0aee4775-e8b4-37ed-8049-6be96ef5de8e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/0ee0c13d-70e5-3031-ae99-c5b7b6d44331.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/1393f182-8170-3d81-bbcc-663c68900b91.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/1b411c64-a8c2-3ec5-98f5-0b867e192819.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/1e8814df-4b51-3d88-9dcd-89145d90282f.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/2737bbb4-080a-3670-89c1-780a32c86c5a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/2a17739c-8096-3f15-9cf7-abffa922ad8e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/2b32bf3c-80b5-35b3-abab-2d4e53bbbeb0.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/2e7f81fe-4dd6-3981-b817-d323711367be.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/3247b050-58df-3a7e-91f5-44a3d807681c.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/34077235-b312-3a6b-9fdd-0d5e06f91c0e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/365faa2a-981e-3ca7-bdac-725f58fc8c84.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/376eb988-e6dd-3105-bb50-572ead49ce98.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/377f1ac0-6050-32e3-9d68-daf21c3caf7c.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/387e1557-1e63-3242-8750-2853d61db146.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/3b1946fe-c2d1-3fab-8b74-bd39d8b52fb4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/46f780a1-2e26-3e88-a90a-02cf37fe1547.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/48c2e6c7-8875-31cc-9a01-be7eaa5f9386.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/49b1c99f-ddf7-3830-8802-b69461c51429.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/4f2b9d55-5b3e-32ee-ad58-c8df44a23337.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/50441446-173a-3648-92c5-519e7eb2f5c1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/5098f6b6-5b18-3f91-8634-ca13195fea22.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/5234a5c3-20f2-3d6d-975b-3ec31fe1a944.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/56a259bf-cc44-38c1-8061-dd05953c60e0.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/56a50a28-2026-3b27-8279-243e3ff82a5a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/5b615aa5-0042-3651-8971-2294273b0cec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/5c6d79ca-db3a-3a0a-8d04-9e811bde5c64.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/5cc48495-676c-3721-aed2-7336730ff405.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/5daba5f8-966b-3165-8089-02aaa9b1e740.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/62db38a8-8d21-3d78-b638-e74e59f2520a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/67e4079e-4cf5-3669-9343-c8d0c03a90f2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/691b5991-d81d-336c-9128-6e2de0ef0a95.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/6a12f6e4-e9d6-38e2-bb44-10484bb75cf2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/6ae8fe40-3ccb-3755-8fd2-c5445728b386.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/6b411cc5-cb23-3aef-b8b1-6cb73d96a2d5.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/6ef60f0d-ee89-3acd-9711-6e64aaf89fef.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/71f66ac1-c861-3de2-8cda-9d0f80277f27.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/74489f5c-5bce-3f80-9a7b-77c68ca90330.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/7ff3eb93-8be9-3a7d-9590-647acffcfb2b.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/8896e73a-aee7-316e-8768-fb46f8d5ace7.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/8dea17cd-e1ef-3064-95ba-e1811660f4f6.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/924198c2-2c42-36d7-958c-f259b1738969.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/955d257f-8897-3d8b-b175-e59818b1c178.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/9c6f7109-b578-36c3-a272-028e06c40407.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/9e5d41e7-4785-3b2f-8261-593dade57f6e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/9ef817a1-6950-35d1-b5a8-3ec720c28c3d.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/9f83efe4-f945-3a62-8c8a-b62cdf1ee258.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/a2d3cb04-2e77-32ea-a568-7872ba7e9c5c.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/a498be5d-0142-3d23-a17c-8823a1cd27b0.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/ad740e1c-84c3-3b16-9064-6e382083a878.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/af25fa27-7674-36f1-a716-e7719e15f87a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/b136c8aa-0654-3583-8db1-8749e12181a1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/b5e415c2-d8ef-3eff-a3b7-e89aed71ee14.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/b7b35306-5dd2-3898-a137-7b342b456059.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/b91f0a72-af04-3f0f-855e-a1f30159432b.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/c6ce7a26-3e2c-3db3-9e3e-b55d9d3a6d24.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/cdb3764d-36f0-3797-a2a1-844d00fc332e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/d0f5fb0c-30f8-3708-84d1-e619aef4d8f4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/d1a76729-1ccb-3de3-b2b3-c7efa54f7c6f.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/d1fadcd5-f8ee-389b-ae76-2112e34d591e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/d3d45e58-b5d9-369a-ac43-347ac47e2b17.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/d3ee42bb-6490-3bf6-992c-01b42b8a0039.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/d566deca-6b21-32cb-af90-4edf09eeac2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/d5c2adf2-8956-39ce-835b-416668af8f9e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/d6e922b7-7cc1-35be-bcee-1c10dacdb1bc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/da5cc374-3bd7-357d-9ee2-36c8124e8cc4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/dbef6173-b792-3041-821b-b11445f44ee8.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/de358e9d-8e5f-32cd-b09f-d8bdf3008cfe.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/e122e0b0-374f-3b1b-a986-63f4fefee57a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/e2b9cbcf-86ca-37af-a4ef-9732161cb042.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/e2f2d8ad-63d3-3d66-8818-3aa1e92fae1a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/e342fe1d-63b8-357f-8114-7490b4ce5aed.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/e7c5c79a-91ee-3db1-afe8-a6ff4d4f15fa.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/f0c5379b-0e4e-34aa-808d-37fef9b5ce6c.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/f2ba1573-0c0d-3978-bb86-e2dc9c0eb9a4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/f861b4cb-4ad2-3047-bede-1f92822d0050.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/fd31ce15-3baa-3523-8ee4-307bb606ee39.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/fef5996a-ff47-30bf-9025-1401c61fa24d.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genIntellijRuns" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/classes/assets/bmm/lang/en_US.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/BlockImporter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/BlockMakerMod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CommandDebug.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/FileIO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/MonoTextureBlock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/bmm/lang/en_US.lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/notes.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -307,25 +26,15 @@
   <component name="ExternalProjectsManager" storeExternally="true" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BlockMakerMod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BlockMakerMod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MonoTextureBlock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MonoTextureBlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="326">
               <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1454#1455#0" expanded="true" />
+                <element signature="e#1540#1541#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -378,15 +87,35 @@
       <file leaf-file-name="BlockImporter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/BlockImporter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            <state relative-caret-position="85">
+              <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes.txt">
+      <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/bmm/lang/en_US.lang">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratchpad.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scratchpad.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
               <caret line="32" column="53" lean-forward="false" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
@@ -941,6 +670,7 @@
         <option value="$PROJECT_DIR$/src/main/java/FileIO.java" />
         <option value="$PROJECT_DIR$/src/main/java/MonoTextureBlock.java" />
         <option value="$PROJECT_DIR$/notes.txt" />
+        <option value="$PROJECT_DIR$/README.txt" />
       </list>
     </option>
   </component>
@@ -999,6 +729,45 @@
               <item name="BlockMaker" type="b2602c69:ProjectViewProjectNode" />
               <item name="BlockMaker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockMaker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlockMaker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockMaker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlockMaker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockMaker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlockMaker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="bmm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockMaker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlockMaker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="bmm" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockMaker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BlockMaker" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="bmm" type="462c0819:PsiDirectoryNode" />
+              <item name="textures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1217,7 +986,7 @@
       <workItem from="1512407475501" duration="2127000" />
       <workItem from="1512489424868" duration="2625000" />
       <workItem from="1512497681880" duration="986000" />
-      <workItem from="1512519293969" duration="1104000" />
+      <workItem from="1512519293969" duration="2670000" />
     </task>
     <task id="LOCAL-00001" summary="file handling, block gen">
       <created>1511664323535</created>
@@ -1240,14 +1009,22 @@
       <option name="project" value="LOCAL" />
       <updated>1512246118375</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new initial commit">
+      <created>1512520438426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1512520438426</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67817000" />
+    <option name="totallyTimeSpent" value="69383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1258,7 +1035,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3207262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1325,7 +1102,8 @@
     </ignored-roots>
     <MESSAGE value="file handling, block gen" />
     <MESSAGE value="breakthrough in naming blocks. now added blocks programatically have correct names." />
-    <option name="LAST_COMMIT_MESSAGE" value="breakthrough in naming blocks. now added blocks programatically have correct names." />
+    <MESSAGE value="new initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1334,13 +1112,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gradle/gradle.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BlockImporter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1207">
@@ -1372,6 +1143,8 @@
           <caret line="27" column="77" lean-forward="false" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1390,7 +1163,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
+    <entry file="file://$PROJECT_DIR$/scratchpad.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
@@ -1439,7 +1212,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
+    <entry file="file://$PROJECT_DIR$/scratchpad.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
@@ -1453,6 +1226,8 @@
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1515,6 +1290,8 @@
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1592,13 +1369,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DynamicLanguageRegistry.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/bmm/lang/en_US.lang">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/util/ResourceLocation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1679,16 +1449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MonoTextureBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/genIntellijRuns">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1705,7 +1465,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
+    <entry file="file://$PROJECT_DIR$/scratchpad.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="53" lean-forward="false" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
@@ -1723,10 +1483,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MonoTextureBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/bmm/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BlockImporter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="73" column="30" lean-forward="false" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="30" />
           <folding />
         </state>
       </provider>
