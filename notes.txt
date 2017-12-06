@@ -1,0 +1,33 @@
+Purpose:
+An add on file for a game that allows custom aesthetic content to be dynamically added without requiring programming by the user, or requiring access to deobfuscated code. Final version should read both a text file as well as collect .png files from config directory.
+
+LanguageRegistry languageRegistry = LanguageRegistry.instance();
+
+languageRegistry.addStringLocalization(String.format("tile.myBlock.name"), "en_US", "MyBlockText");
+
+
+public class ItemHeated extends Item implements IHotItem
+<...>
+
+@Override
+     public String getItemStackDisplayName(ItemStack stack)
+     {
+      String name = "";
+
+      ItemStack item = getItem(stack);
+      if (item != null)
+       name = item.getItem().getItemStackDisplayName(item);
+      return StatCollector.translateToLocalFormatted("prefix.hotitem.name", name);
+     } ;
+
+https://www.programcreek.com/java-api-examples/index.php?source_dir=MineFantasy2-master/src/main/java/minefantasy/mf2/item/heatable/ItemHeated.java
+
+https://stackoverflow.com/questions/33157865/how-do-i-define-a-gradle-build-script-environment-variable-from-a-file-in-my-src
+
+https://bukkit.org/threads/setting-display-name-lores-of-itemstacks.147292/
+
+https://github.com/MinecraftForge/FML/blob/1d627656b890ee9ae530687c16a2c288570b4386/src/main/java/net/minecraftforge/fml/common/registry/LanguageRegistry.java
+
+http://jabelarminecraft.blogspot.com/p/minecraft-forge-1721710-modding-tips_9.html
+
+reinit git to main file and add ignores appropriately

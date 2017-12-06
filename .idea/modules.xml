@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlockMaker.iml" filepath="$PROJECT_DIR$/.idea/modules/BlockMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlockMaker_api.iml" filepath="$PROJECT_DIR$/.idea/modules/BlockMaker_api.iml" group="BlockMaker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlockMaker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BlockMaker_main.iml" group="BlockMaker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlockMaker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BlockMaker_test.iml" group="BlockMaker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects-BlockMaker.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects-BlockMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects-BlockMaker_api.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects-BlockMaker_api.iml" group="BlockMaker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects-BlockMaker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects-BlockMaker_main.iml" group="BlockMaker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects-BlockMaker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects-BlockMaker_test.iml" group="BlockMaker" />
+    </modules>
+  </component>
+</project>
