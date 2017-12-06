@@ -1,29 +1,45 @@
-[12:25:08] [main/INFO]: Setting user: Player384
-[12:25:10] [Client thread/INFO]: LWJGL Version: 2.9.1
-[12:25:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BlockMakerMod Mod
-[12:25:21] [Sound Library Loader/INFO]: Sound engine started
-[12:25:26] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[12:25:26] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[12:25:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BlockMakerMod Mod
-[12:25:26] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[12:25:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[12:25:27] [Sound Library Loader/INFO]: Sound engine started
-[12:25:31] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[12:25:31] [Server thread/INFO]: Generating keypair
-[12:25:32] [Server thread/INFO]: Preparing start region for level 0
-[12:25:32] [Server thread/INFO]: Changing view distance to 12, from 10
-[12:25:33] [Server thread/INFO]: Player384[local:E:5025a541] logged in with entity id 3 at (1297.2621357440798, 60.0, 1279.300000011921)
-[12:25:33] [Server thread/INFO]: Player384 joined the game
-[12:25:36] [Server thread/INFO]: Player384 has just earned the achievement [Taking Inventory]
-[12:25:36] [Client thread/INFO]: [CHAT] Player384 has just earned the achievement [Taking Inventory]
-[12:25:41] [Server thread/INFO]: Saving and pausing game...
-[12:25:41] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[12:25:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[12:25:41] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[12:25:44] [Server thread/INFO]: Stopping server
-[12:25:44] [Server thread/INFO]: Saving players
-[12:25:44] [Server thread/INFO]: Saving worlds
-[12:25:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[12:25:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[12:25:44] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[12:26:18] [Client thread/INFO]: Stopping!
+[11:06:04] [main/INFO]: Setting user: Player415
+[11:06:05] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:06:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BlockMakerMod Mod
+[11:06:18] [Sound Library Loader/INFO]: Sound engine started
+[11:06:23] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[11:06:23] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[11:06:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BlockMakerMod Mod
+[11:06:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:06:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:06:25] [Sound Library Loader/INFO]: Sound engine started
+[11:06:29] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:06:29] [Server thread/INFO]: Generating keypair
+[11:06:30] [Server thread/INFO]: Preparing start region for level 0
+[11:06:30] [Server thread/INFO]: Changing view distance to 12, from 10
+[11:06:31] [Server thread/INFO]: Player415[local:E:d85dc528] logged in with entity id 1 at (1292.8644703095545, 56.0, 1279.687607538)
+[11:06:31] [Server thread/INFO]: Player415 joined the game
+[11:06:36] [Client thread/INFO]: [CHAT] /bmm-gui, /bmm-debug
+[11:06:37] [Server thread/ERROR]: Couldn't process command: 'bmm-gui'
+java.lang.NullPointerException
+	at BlockUI.<init>(BlockUI.java:17) ~[BlockUI.class:?]
+	at CommandGUI.processCommand(CommandGUI.java:37) ~[CommandGUI.class:?]
+	at net.minecraft.command.CommandHandler.executeCommand(CommandHandler.java:96) [CommandHandler.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.handleSlashCommand(NetHandlerPlayServer.java:788) [NetHandlerPlayServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.processChatMessage(NetHandlerPlayServer.java:764) [NetHandlerPlayServer.class:?]
+	at net.minecraft.network.play.client.C01PacketChatMessage.processPacket(C01PacketChatMessage.java:47) [C01PacketChatMessage.class:?]
+	at net.minecraft.network.play.client.C01PacketChatMessage.processPacket(C01PacketChatMessage.java:68) [C01PacketChatMessage.class:?]
+	at net.minecraft.network.NetworkManager.processReceivedPackets(NetworkManager.java:241) [NetworkManager.class:?]
+	at net.minecraft.network.NetworkSystem.networkTick(NetworkSystem.java:182) [NetworkSystem.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:726) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:614) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:118) [IntegratedServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:485) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:752) [MinecraftServer$2.class:?]
+[11:06:37] [Client thread/INFO]: [CHAT] An unknown error occurred while attempting to perform this command
+[11:07:58] [Server thread/INFO]: Saving and pausing game...
+[11:07:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:07:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:07:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:07:59] [Server thread/INFO]: Stopping server
+[11:07:59] [Server thread/INFO]: Saving players
+[11:07:59] [Server thread/INFO]: Saving worlds
+[11:07:59] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:07:59] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:07:59] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:08:00] [Client thread/INFO]: Stopping!

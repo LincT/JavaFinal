@@ -3,7 +3,7 @@ import cpw.mods.fml.common.registry.LanguageRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 
-import java.io.File;
+import net.minecraft.client.renderer.texture.TextureMap;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
@@ -32,7 +32,7 @@ public class BlockImporter {
             header.add("# one wishes to add comments.");
             header.add("# if blocks are not rendering, verify a .png file exists w/ the same name as the block");
             header.add("# Generated at: " + new Date().toString());
-            fileIO.createTextFile(dir + modConfig,blockFile,header);
+            fileIO.writeTextFile(dir + modConfig,blockFile,header);
         }
     }
 

@@ -2,6 +2,7 @@ import com.google.common.io.Files;
 import net.minecraft.client.Minecraft;
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Date;
 
 
 public class FileIO {
@@ -10,8 +11,14 @@ public class FileIO {
 
     public String separator; //in case we need the separator string in other places.
 
+    public String delimeter;
+
     public FileIO() {
         separator = File.separator;
+        delimeter = ",";
+    }
+    public String currentDate(){
+        return new Date().toString();
     }
 
     public ArrayList<String> getArrayListFromFile(String filename)  {
@@ -53,9 +60,10 @@ public class FileIO {
             }
         }
         return blocks;
+
     }
 
-    public void createTextFile(String dir, String filename, ArrayList<String> header){
+    public void writeTextFile(String dir, String filename, ArrayList<String> header){
         try {
 
             File file = new File(dir + filename);

@@ -1,7 +1,8 @@
 After pulling this project from github, next steps to run as follows:
 in terminal run "gradlew runclient"
 
-If all is as it should be, you'll start a special development version of Minecraft.
+If all is as it should be, you'll start a special development version of Minecraft. 
+(it may take a moment as there's a bit going on behind the scenes)
 
 You'll want to go to "single player",
 click on the file called "new world"

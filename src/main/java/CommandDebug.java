@@ -22,7 +22,7 @@ public class CommandDebug implements ICommand {
 
     @Override
     public String getCommandUsage(ICommandSender p_71518_1_) {
-        return "/Hello: Just type hello. Simple test command";
+        return "simple debug command";
     }
 
     @Override

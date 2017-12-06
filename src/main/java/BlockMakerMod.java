@@ -32,6 +32,10 @@ public class BlockMakerMod {
             "config" + fileIO.separator + BlockMakerMod.MODID + fileIO.separator;
     public ResourceLocation custom = new ResourceLocation("custom",resourceLocation+"cottoncandy.png");
 
+    public static void main(String[] args) {
+        BlockUI gui = new BlockUI();
+    }
+
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event){
 
@@ -50,13 +54,15 @@ public class BlockMakerMod {
         languageRegistry.addStringLocalization(String.format(modTabName.split("=")[0]), "en_US",
                 modTabName.split("=")[1]);
 
-
+        // trying to override the location using // doesn't work, though in all fairness it
+        // did make the client at least start to load
+//        String cottonCandyTexture = fileIO.separator+fileIO.separator +
+//                fileIO.getDirectory("AppData",".minecraft")+
+//                        "config" + fileIO.separator + BlockMakerMod.MODID + fileIO.separator + "cottoncandy";
         myBlock = new MonoTextureBlock(Material.clay)
                 .setBlockName("myBlock")
                 .setCreativeTab(BlockMakerMod.blockMakerTab)
                 .setBlockTextureName("cottoncandy");
-        String blockString = String.format("tile.%s.name=%s",myBlock.getUnlocalizedName().substring(5),
-                myBlock.getUnlocalizedName().substring(5).toUpperCase());
 
 
 
@@ -86,6 +92,7 @@ public class BlockMakerMod {
     {
         // register server commands
         event.registerServerCommand(new CommandDebug());
+        event.registerServerCommand(new CommandGUI());
     }
 
     @Mod.EventHandler
