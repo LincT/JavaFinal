@@ -51,7 +51,7 @@ path tests. this format can easily be implemented in other commands for either g
 
 while most of these should be commented, a little background here:
 
-#####FileIO 
+##### FileIO 
 
 should be the only class doing actual file reading, anything that needs to load something should go through this.
 
@@ -84,4 +84,7 @@ BlockUI so we can see there is some interface logic already designed and functio
 ##### BlockMakerModel
 
 a model for displaying blocks in the jtable of the BlockUI form. 
+
+extensible as comma delimited lines display in multiple columns
+
 (I might have some logic in the wrong place between the model and the form)
