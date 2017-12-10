@@ -18,6 +18,11 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Set;
 
+/*
+* normally image handling wouldn't be hard coded here, but this is still in an experimental phase where I am attempting
+* to parse a png file from a location outside of the assets folder.
+* Once we successfully map our test image to our block, this will get cleaned up to allow iteration over a directory
+*/
 
 public class MonoTextureBlock extends Block {
     FileIO fileIO = new FileIO();
@@ -52,7 +57,7 @@ public class MonoTextureBlock extends Block {
         Image image = null;
         try {
             image = ImageIO.read(fileIO.getTextureFile("cottoncandy.png"));
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
         final Icon icon = new ImageIcon(image);
@@ -103,9 +108,13 @@ public class MonoTextureBlock extends Block {
             }
         };
         //return this.blockIcon;
+        ResourceLocation resourceLocation = new ResourceLocation("test",
+                String.format("%sconfig%s%s%s",
+                        fileIO.getDirectory("AppData", ".minecraft"),
+                        fileIO.separator, BlockMakerMod.MODID, fileIO.separator));
         IResourcePack pack = new IResourcePack() {
             @Override
-            public InputStream getInputStream(ResourceLocation p_110590_1_) throws IOException {
+            public InputStream getInputStream(ResourceLocation resourceLocation) throws IOException {
                 InputStream inputStream = new InputStream() {
                     @Override
                     public int read() throws IOException {
@@ -132,7 +141,23 @@ public class MonoTextureBlock extends Block {
 
             @Override
             public BufferedImage getPackImage() throws IOException {
-                return null;
+                //return null;
+                //https://stackoverflow.com/questions/13605248/java-converting-image-to-bufferedimage
+                //
+                Image img = ImageIO.read(fileIO.getTextureFile("cottoncandy.png"));
+                if (img instanceof BufferedImage)
+                {
+                    return (BufferedImage) img;
+                }
+                BufferedImage bimage = new BufferedImage(img.getWidth(null), img.getHeight(null), BufferedImage.TYPE_INT_ARGB);
+
+                // Draw the image on to the buffered image
+                Graphics2D bGr = bimage.createGraphics();
+                bGr.drawImage(img, 0, 0, null);
+                bGr.dispose();
+
+                // Return the buffered image
+                return bimage;
             }
 
             @Override

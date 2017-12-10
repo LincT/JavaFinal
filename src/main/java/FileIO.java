@@ -60,7 +60,6 @@ public class FileIO {
             }
         }
         return blocks;
-
     }
 
     public void writeTextFile(String dir, String filename, ArrayList<String> header){
