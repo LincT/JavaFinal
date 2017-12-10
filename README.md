@@ -13,12 +13,12 @@ If all is as it should be, you'll start a special development version of Minecra
 
 ## Post load
 (links should pull up screenshots)
-You'll want to go to [Single Player](screenshots/Main%20Menu.JPG)
+You'll want to go to [Single Player](https://github.com/LincT/JavaFinal/blob/master/screenshots/Main%20Menu.JPG)
 click on the file called "new world"
-click on "play selected world" [WorldSelect](screenshots/WorldSelect.JPG)
+click on "play selected world" [WorldSelect](https://github.com/LincT/JavaFinal/blob/master/screenshots/WorldSelect.JPG)
 
 ## Gameplay
-> necessary to view features:
+> necessary information to view features:
 
 `WASD` to move forwards, backwards, and to strafe left and right.
 Mouse to control looking direction
@@ -28,13 +28,13 @@ i.e. `/gamemode c` to go into creative mode
 
 ## Features
 once the game world loads, you'll see hopefully really nice blocks, otherwise if the code is incomplete you'll
-see blocks colored [black and pink](screenshots/MissingTexture.JPG), absolute eyesore, but at least they are there.
+see blocks colored [black and pink](https://github.com/LincT/JavaFinal/blob/master/screenshots/MissingTexture.JPG), absolute eyesore, but at least they are there.
 
 a brief example of the implemented goal is if you go to the inventory screen in creative mode, 
 go to the tab for `block maker mod` and you should see a block there for every entry in 
 `%appdata%\.minecraft\config\bmm\blockNames.txt`
 
-another example is viewable with a [debug command](screenshots/CLIOutput.JPG). 
+another example is viewable with a [debug command](https://github.com/LincT/JavaFinal/blob/master/screenshots/CLIOutput.JPG). 
 it's a good development example that allows a user to view data in 
 real time without writing to a text file or parsing the terminal for output. 
 currently it's coded to sample data, such as player name, mod id, dimension and location in game, and a few directory

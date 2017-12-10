@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff15fd4b-1a84-4be4-88f6-a6afec0e835f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/CLIExample.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/CLIOutput.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/GeneratedBlocks.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/Main Menu.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/MissingTexture.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/NewCreativeInventoryTab.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/WorldSelect.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.2.2.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.2.2.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/session.lock" afterPath="$PROJECT_DIR$/eclipse/saves/New World/session.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/gradle.log" afterPath="$PROJECT_DIR$/.gradle/gradle.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/FileIO.java" afterPath="$PROJECT_DIR$/src/main/java/FileIO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/MonoTextureBlock.java" afterPath="$PROJECT_DIR$/src/main/java/MonoTextureBlock.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -94,9 +65,9 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="106">
+                <caret line="36" column="98" lean-forward="false" selection-start-line="36" selection-start-column="98" selection-end-line="36" selection-end-column="98" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -1021,7 +992,7 @@
       <workItem from="1512536274478" duration="50000" />
       <workItem from="1512573782179" duration="7825000" />
       <workItem from="1512601218942" duration="164000" />
-      <workItem from="1512861023230" duration="5080000" />
+      <workItem from="1512861023230" duration="5270000" />
     </task>
     <task id="LOCAL-00001" summary="file handling, block gen">
       <created>1511664323535</created>
@@ -1065,11 +1036,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512580152119</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="readme and screenshots">
+      <created>1512866208574</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1512866208574</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85408000" />
+    <option name="totallyTimeSpent" value="85598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1153,7 +1131,8 @@
     <MESSAGE value="breakthrough in naming blocks. now added blocks programatically have correct names." />
     <MESSAGE value="new initial commit" />
     <MESSAGE value="well, it's not the defaul texture anymore, apparently my candy is irradiated...&#10;Also making a popup gui is in the works, not yet fully implemented." />
-    <option name="LAST_COMMIT_MESSAGE" value="well, it's not the defaul texture anymore, apparently my candy is irradiated...&#10;Also making a popup gui is in the works, not yet fully implemented." />
+    <MESSAGE value="readme and screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme and screenshots" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1628,9 +1607,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="106">
+            <caret line="36" column="98" lean-forward="false" selection-start-line="36" selection-start-column="98" selection-end-line="36" selection-end-column="98" />
             <folding />
           </first_editor>
           <second_editor />
