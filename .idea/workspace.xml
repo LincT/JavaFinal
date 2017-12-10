@@ -65,9 +65,9 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="106">
-                <caret line="36" column="98" lean-forward="false" selection-start-line="36" selection-start-column="98" selection-end-line="36" selection-end-column="98" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="63" lean-forward="true" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -992,7 +992,7 @@
       <workItem from="1512536274478" duration="50000" />
       <workItem from="1512573782179" duration="7825000" />
       <workItem from="1512601218942" duration="164000" />
-      <workItem from="1512861023230" duration="5270000" />
+      <workItem from="1512861023230" duration="5339000" />
     </task>
     <task id="LOCAL-00001" summary="file handling, block gen">
       <created>1511664323535</created>
@@ -1043,11 +1043,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512866208574</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="readme with some inline links to screenshots">
+      <created>1512866398676</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1512866398676</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85598000" />
+    <option name="totallyTimeSpent" value="85667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1132,7 +1139,8 @@
     <MESSAGE value="new initial commit" />
     <MESSAGE value="well, it's not the defaul texture anymore, apparently my candy is irradiated...&#10;Also making a popup gui is in the works, not yet fully implemented." />
     <MESSAGE value="readme and screenshots" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme and screenshots" />
+    <MESSAGE value="readme with some inline links to screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme with some inline links to screenshots" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1607,9 +1615,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="106">
-            <caret line="36" column="98" lean-forward="false" selection-start-line="36" selection-start-column="98" selection-end-line="36" selection-end-column="98" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="63" lean-forward="true" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
             <folding />
           </first_editor>
           <second_editor />
