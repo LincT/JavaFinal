@@ -1,8 +1,8 @@
-#BlockMaker
+# BlockMaker
 
-#####This will be a mod that allows users to add custom aesthetic content to an existing game without any code knowledge
+##### This will be a mod that allows users to add custom aesthetic content to an existing game without any code knowledge
 
-#####(apologies in advance if this seems excessively detailed.)
+##### (apologies in advance if this seems excessively detailed.)
 TODO: 
 - [ ] make screenshot links work.
 
@@ -47,12 +47,12 @@ while most of these should be commented, a little background here:
 #####FileIO 
 > should be the only class doing actual file reading, anything that needs to load something should go through this.
 
-#####CommandDebug and CommandGUI
+##### CommandDebug and CommandGUI
 > both follow a template reverse engineered from a much more complex example, I wanted to show a starting point for 
 others looking to start a new commands. CommandGUI is not fully implemented, I developed a GUI to modify the text file
 that adds blocks, however while the gui loads in a normal java program, it is not callable from the minecraft CLI
 
-#####BlockImporter
+##### BlockImporter
 > Uses fileIO to read the block list, translates this to data for generating instances of MonoTextureBlock,
 then generates blocks and registers them with the game accordingly, including setting a display name by bypassing a 
 resource file and adding entries from the external blockNames.txt file. This is also the class responsible for making
@@ -61,14 +61,14 @@ Ideally this would be where a texture name is assigned.
 Future development will ask the users for more
 customizable traits of the blocks such as material, light, hardness, sound when broken, etc.
 
-#####MonoTextureBlock
+##### MonoTextureBlock
 >This class is a wrapper for a standard block object in the game, within it, it should have the logic to assign the 
 correct texture from a string, as well as any other attributes that need to be assigned.
 
-#####BlockMakerMod
+##### BlockMakerMod
 > the main file for the mod. normally it is without a main(). I however use one here as a hacky way to bring up the 
 BlockUI so we can see there is some interface logic already designed and functional.
 
-#####BlockMakerModel
+##### BlockMakerModel
 > a model for displaying blocks in the jtable of the BlockUI form. 
 (I might have some logic in the wrong place between the model and the form)
