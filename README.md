@@ -4,7 +4,8 @@
 
 ##### (apologies in advance if this seems excessively detailed.)
 TODO: 
-- [ ] make screenshot links work.
+- [*] make screenshot links work.
+- [ ] make texture rendering work from external directory
 
 ## Setup:
 After pulling this project from github, next steps to run as follows:
