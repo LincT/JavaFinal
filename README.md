@@ -21,7 +21,7 @@ click on the file called "new world"
 click on "play selected world" [WorldSelect](https://github.com/LincT/JavaFinal/blob/master/screenshots/WorldSelect.JPG)
 
 ## Gameplay
-> necessary information to view features:
+##### necessary information to view features:
 
 `WASD` to move forwards, backwards, and to strafe left and right.
 
