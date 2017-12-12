@@ -48,128 +48,128 @@ public class MonoTextureBlock extends Block {
         return StatCollector.translateToLocalFormatted(this.getItemIconName());
     }
 
-    @SideOnly(Side.CLIENT)
-    @Override
-    public IIcon getIcon(int p_149691_1_, int p_149691_2_)
-    {
-        //image, imageIO, and icon info from here:
-        //https://stackoverflow.com/questions/12020597/java-convert-image-to-icon-imageicon
-        Image image = null;
-        try {
-            image = ImageIO.read(fileIO.getTextureFile("cottoncandy.png"));
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        final Icon icon = new ImageIcon(image);
-        IIcon iIcon = new IIcon() {
-            @Override
-            public int getIconWidth() {
-                return icon.getIconWidth();
-            }
-
-            @Override
-            public int getIconHeight() {
-                return icon.getIconHeight();
-            }
-
-            @Override
-            public float getMinU() {
-                return 0;
-            }
-
-            @Override
-            public float getMaxU() {
-                return 0;
-            }
-
-            @Override
-            public float getInterpolatedU(double p_94214_1_) {
-                return 0;
-            }
-
-            @Override
-            public float getMinV() {
-                return 0;
-            }
-
-            @Override
-            public float getMaxV() {
-                return 0;
-            }
-
-            @Override
-            public float getInterpolatedV(double p_94207_1_) {
-                return 0;
-            }
-
-            @Override
-            public String getIconName() {
-                return "cottoncandy";
-            }
-        };
-        //return this.blockIcon;
-        ResourceLocation resourceLocation = new ResourceLocation("test",
-                String.format("%sconfig%s%s%s",
-                        fileIO.getDirectory("AppData", ".minecraft"),
-                        fileIO.separator, BlockMakerMod.MODID, fileIO.separator));
-        IResourcePack pack = new IResourcePack() {
-            @Override
-            public InputStream getInputStream(ResourceLocation resourceLocation) throws IOException {
-                InputStream inputStream = new InputStream() {
-                    @Override
-                    public int read() throws IOException {
-                        return 0;
-                    }
-                };
-                return inputStream;
-            }
-
-            @Override
-            public boolean resourceExists(ResourceLocation p_110589_1_) {
-                return false;
-            }
-
-            @Override
-            public Set getResourceDomains() {
-                return null;
-            }
-
-            @Override
-            public IMetadataSection getPackMetadata(IMetadataSerializer p_135058_1_, String p_135058_2_) throws IOException {
-                return null;
-            }
-
-            @Override
-            public BufferedImage getPackImage() throws IOException {
-                //return null;
-                //https://stackoverflow.com/questions/13605248/java-converting-image-to-bufferedimage
-                //
-                Image img = ImageIO.read(fileIO.getTextureFile("cottoncandy.png"));
-                if (img instanceof BufferedImage)
-                {
-                    return (BufferedImage) img;
-                }
-                BufferedImage bimage = new BufferedImage(img.getWidth(null), img.getHeight(null), BufferedImage.TYPE_INT_ARGB);
-
-                // Draw the image on to the buffered image
-                Graphics2D bGr = bimage.createGraphics();
-                bGr.drawImage(img, 0, 0, null);
-                bGr.dispose();
-
-                // Return the buffered image
-                return bimage;
-            }
-
-            @Override
-            public String getPackName() {
-                return null;
-            }
-        };
+//    @SideOnly(Side.CLIENT)
+//    @Override
+//    public IIcon getIcon(int p_149691_1_, int p_149691_2_)
+//    {
+//        //image, imageIO, and icon info from here:
+//        //https://stackoverflow.com/questions/12020597/java-convert-image-to-icon-imageicon
+//        Image image = null;
+//        try {
+//            image = ImageIO.read(fileIO.getTextureFile("cottoncandy.png"));
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//        final Icon icon = new ImageIcon(image);
+//        IIcon iIcon = new IIcon() {
+//            @Override
+//            public int getIconWidth() {
+//                return icon.getIconWidth();
+//            }
+//
+//            @Override
+//            public int getIconHeight() {
+//                return icon.getIconHeight();
+//            }
+//
+//            @Override
+//            public float getMinU() {
+//                return 0;
+//            }
+//
+//            @Override
+//            public float getMaxU() {
+//                return 0;
+//            }
+//
+//            @Override
+//            public float getInterpolatedU(double p_94214_1_) {
+//                return 0;
+//            }
+//
+//            @Override
+//            public float getMinV() {
+//                return 0;
+//            }
+//
+//            @Override
+//            public float getMaxV() {
+//                return 0;
+//            }
+//
+//            @Override
+//            public float getInterpolatedV(double p_94207_1_) {
+//                return 0;
+//            }
+//
+//            @Override
+//            public String getIconName() {
+//                return "cottoncandy";
+//            }
+//        };
+//        //return this.blockIcon;
+//        ResourceLocation resourceLocation = new ResourceLocation("test",
+//                String.format("%sconfig%s%s%s",
+//                        fileIO.getDirectory("AppData", ".minecraft"),
+//                        fileIO.separator, BlockMakerMod.MODID, fileIO.separator));
+//        IResourcePack pack = new IResourcePack() {
+//            @Override
+//            public InputStream getInputStream(ResourceLocation resourceLocation) throws IOException {
+//                InputStream inputStream = new InputStream() {
+//                    @Override
+//                    public int read() throws IOException {
+//                        return 0;
+//                    }
+//                };
+//                return inputStream;
+//            }
+//
+//            @Override
+//            public boolean resourceExists(ResourceLocation p_110589_1_) {
+//                return false;
+//            }
+//
+//            @Override
+//            public Set getResourceDomains() {
+//                return null;
+//            }
+//
+//            @Override
+//            public IMetadataSection getPackMetadata(IMetadataSerializer p_135058_1_, String p_135058_2_) throws IOException {
+//                return null;
+//            }
+//
+//            @Override
+//            public BufferedImage getPackImage() throws IOException {
+//                //return null;
+//                //https://stackoverflow.com/questions/13605248/java-converting-image-to-bufferedimage
+//                //
+//                Image img = ImageIO.read(fileIO.getTextureFile("cottoncandy.png"));
+//                if (img instanceof BufferedImage)
+//                {
+//                    return (BufferedImage) img;
+//                }
+//                BufferedImage bimage = new BufferedImage(img.getWidth(null), img.getHeight(null), BufferedImage.TYPE_INT_ARGB);
+//
+//                // Draw the image on to the buffered image
+//                Graphics2D bGr = bimage.createGraphics();
+//                bGr.drawImage(img, 0, 0, null);
+//                bGr.dispose();
+//
+//                // Return the buffered image
+//                return bimage;
+//            }
+//
+//            @Override
+//            public String getPackName() {
+//                return null;
+//            }
+//        };
 //        ResourcePackRepository repo = new ResourcePackRepository(
 //                fileIO.getTextureFile("cottoncandy.png"),
 //                fileIO.getTextureFile("cottoncandy.png"));
-        return iIcon;
-    }
+//        return iIcon;
+//    }
 
 
 }
