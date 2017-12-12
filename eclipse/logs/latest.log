@@ -1,52 +1,27 @@
-[11:16:34] [main/INFO]: Setting user: Player729
-[11:16:36] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:16:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BlockMakerMod Mod
-[11:16:50] [Sound Library Loader/INFO]: Sound engine started
-[11:16:55] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[11:16:55] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[11:16:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BlockMakerMod Mod
-[11:16:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[11:16:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[11:16:57] [Sound Library Loader/INFO]: Sound engine started
-[11:17:01] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[11:17:01] [Server thread/INFO]: Generating keypair
-[11:17:02] [Server thread/INFO]: Preparing start region for level 0
-[11:17:02] [Server thread/INFO]: Changing view distance to 12, from 10
-[11:17:03] [Server thread/INFO]: Player729[local:E:0a340262] logged in with entity id 0 at (1297.1563834316523, 56.0, 1275.0144685092046)
-[11:17:03] [Server thread/INFO]: Player729 joined the game
-[11:17:06] [Server thread/INFO]: Player729 has just earned the achievement [Taking Inventory]
-[11:17:06] [Client thread/INFO]: [CHAT] Player729 has just earned the achievement [Taking Inventory]
-[11:18:58] [Client thread/INFO]: [CHAT] /bmm-gui, /bmm-debug
-[11:19:02] [Client thread/INFO]: [CHAT] Hello Player729!
-[11:19:02] [Client thread/INFO]: [CHAT] ModID: bmm
-[11:19:02] [Client thread/INFO]: [CHAT] Overworld: Pos{x=1297, y=56, z=1275}
-[11:19:02] [Client thread/INFO]: [CHAT] Project Directory: C:\Users\Linc\IdeaProjects\BlockMaker
-[11:19:02] [Client thread/INFO]: [CHAT] Canonical test: C:\Users\Linc\IdeaProjects\BlockMaker\eclipse
-[11:19:02] [Client thread/INFO]: [CHAT] custom : C:\Users\Linc\AppData\Roaming\.minecraft\config\bmm\cottoncandy.png
-[11:19:02] [Client thread/INFO]: [CHAT] C:\Users\Linc\AppData\Roaming\.minecraft\config\bmm\cottoncandy.png
-[11:19:17] [Client thread/INFO]: [CHAT] /defaultgamemode, /msg, /testfor, /summon, /spreadplayers, /seed, /achievement, /tellraw, /tell, /bmm-gui, /gamemode, /toggledownfall, /testforblock, /weather, /me, /scoreboard, /bmm-debug, /give, /debug, /clear, /say, /kill, /spawnpoint, /setblock, /difficulty, /help, /gamerule, /playsound, /forge, /effect, /enchant, /w, /publish, /xp, /time, /tp, /setworldspawn, /?
-[11:19:26] [Client thread/INFO]: [CHAT] /bmm-gui, /bmm-debug
-[11:19:30] [Server thread/ERROR]: Couldn't process command: 'bmm-gui'
-java.lang.NullPointerException
-	at BlockUI.<init>(BlockUI.java:29) ~[BlockUI.class:?]
-	at CommandGUI.processCommand(CommandGUI.java:37) ~[CommandGUI.class:?]
-	at net.minecraft.command.CommandHandler.executeCommand(CommandHandler.java:96) [CommandHandler.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.handleSlashCommand(NetHandlerPlayServer.java:788) [NetHandlerPlayServer.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.processChatMessage(NetHandlerPlayServer.java:764) [NetHandlerPlayServer.class:?]
-	at net.minecraft.network.play.client.C01PacketChatMessage.processPacket(C01PacketChatMessage.java:47) [C01PacketChatMessage.class:?]
-	at net.minecraft.network.play.client.C01PacketChatMessage.processPacket(C01PacketChatMessage.java:68) [C01PacketChatMessage.class:?]
-	at net.minecraft.network.NetworkManager.processReceivedPackets(NetworkManager.java:241) [NetworkManager.class:?]
-	at net.minecraft.network.NetworkSystem.networkTick(NetworkSystem.java:182) [NetworkSystem.class:?]
-	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:726) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:614) [MinecraftServer.class:?]
-	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:118) [IntegratedServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:485) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:752) [MinecraftServer$2.class:?]
-[11:19:30] [Client thread/INFO]: [CHAT] An unknown error occurred while attempting to perform this command
-[11:19:38] [Client thread/INFO]: Stopping!
-[11:19:38] [Server thread/INFO]: Stopping server
-[11:19:38] [Server thread/INFO]: Saving players
-[11:19:38] [Server thread/INFO]: Saving worlds
-[11:19:38] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:19:38] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:19:38] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:30:53] [main/INFO]: Setting user: Player213
+[14:30:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:31:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BlockMakerMod Mod
+[14:31:08] [Sound Library Loader/INFO]: Sound engine started
+[14:31:09] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[14:31:09] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[14:31:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BlockMakerMod Mod
+[14:31:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:31:10] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:31:11] [Sound Library Loader/INFO]: Sound engine started
+[14:31:15] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:31:15] [Server thread/INFO]: Generating keypair
+[14:31:15] [Server thread/INFO]: Preparing start region for level 0
+[14:31:16] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:31:16] [Server thread/INFO]: Player213[local:E:53daa8da] logged in with entity id 0 at (1297.1563834316523, 56.0, 1275.0144685092046)
+[14:31:16] [Server thread/INFO]: Player213 joined the game
+[14:31:20] [Server thread/INFO]: Saving and pausing game...
+[14:31:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:31:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:31:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:31:21] [Server thread/INFO]: Stopping server
+[14:31:21] [Server thread/INFO]: Saving players
+[14:31:21] [Server thread/INFO]: Saving worlds
+[14:31:21] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:31:21] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:31:21] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:31:22] [Client thread/INFO]: Stopping!

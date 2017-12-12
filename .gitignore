@@ -1,6 +1,6 @@
-build\*
-source\*
-out\*
+build
+source
+out
 blockMakerMod.iml
 gradlew.bat
 gradlew
