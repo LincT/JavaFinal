@@ -1,8 +1,12 @@
+import net.minecraft.client.Minecraft;
+
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
+import java.awt.*;
+import java.awt.event.*;
+import java.beans.PropertyChangeEvent;
+import java.beans.PropertyChangeListener;
 
 public class BlockUI extends JFrame{
     private JTable blockTable;
@@ -10,8 +14,16 @@ public class BlockUI extends JFrame{
     private JButton removeBlockButton;
     private JTextField textFieldAdd;
     private JButton addBlockButton;
+    private JLabel imageLabel;
 
     BlockMakerModel blockMakerModel = new BlockMakerModel();
+    FileIO fileIO = new FileIO();
+
+    private final String dir = fileIO.getDirectory("AppData",".minecraft");
+    private final String configFolder = "config" + fileIO.separator;
+    private final String modConfig = configFolder + BlockMakerMod.MODID + fileIO.separator;
+
+
 
     public BlockUI(){
         blockTable.setModel(blockMakerModel);
@@ -26,6 +38,8 @@ public class BlockUI extends JFrame{
         setContentPane(mainPanel);
         pack();
         setVisible(true);
+        blockTable.setRowSelectionInterval(0,0);
+        imageLabel.setBounds(10, 10, 400, 400);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     }
 
@@ -60,6 +74,34 @@ public class BlockUI extends JFrame{
                         break;
                 }
                 super.windowClosing(e);
+            }
+        });
+        //https://stackoverflow.com/questions/1242581/display-a-jpg-image-on-a-jpanel
+        blockTable.getSelectionModel().addListSelectionListener(new ListSelectionListener() {
+            @Override
+            public void valueChanged(ListSelectionEvent event) {
+                try {
+                    imageLabel.setText("");
+                    String imageName = blockTable
+                            .getValueAt(blockTable.getSelectedRow(),0).toString().toLowerCase() + ".png";
+                    if (fileIO.verifyFile(dir + modConfig,imageName)){
+                        imageLabel.setText("Found:\n"+imageName);
+                        //imageLabel = new JLabel(new ImageIcon(dir+modConfig + imageName));
+                        //imageLabel.setIcon(new ImageIcon(dir+modConfig + imageName));
+                        //imageLabel.setPreferredSize(new Dimension(64,64));
+                        //imageLabel.setBounds(10, 10, 400, 400);
+                        //imageLabel.setVisible(true);
+                    }
+                    else {
+                        //imageLabel = new JLabel();
+                        imageLabel.setText(imageName +"\nNot Found");
+                        //imageLabel.setIcon(null);
+                    }
+
+                }
+                catch (Exception e){
+                    e.printStackTrace();
+                }
             }
         });
 
