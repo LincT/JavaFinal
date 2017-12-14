@@ -18,8 +18,8 @@ If all is as it should be, you'll start a development version of Minecraft.
 One item of note, if you're testing this in an environment where minecraft has not been installed, you'll need to 
 make sure the following directory exists already on the system: (the . is not a typo)
 `C:\Users\<user>\AppData\Roaming\.minecraft`
-You can locate the appdata folder easily on windows by hitting ctrl + r and typing `%appdata%` 
-that should also put you right into the roaming subdirectory.
+You can locate the appdata folder easily on windows by hitting windows + r and typing `%appdata%` 
+that should also put you right into the roaming subdirectory. 
 
 ## Post load
 You'll want to go to [Single Player](https://github.com/LincT/JavaFinal/blob/master/screenshots/Main%20Menu.JPG)
